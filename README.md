@@ -2,7 +2,7 @@
 
 Let's look at the major development verticals you might try out to begin with.
 
-- App
+- Mobile App
 - Front-End
 - Back-End
 
@@ -10,11 +10,9 @@ Now, let's look at what learning any of these verticals majorly makes you capabl
 
 - If you become an App Developer (I did), you'll be capable of making applications that people may use on their Android/iOS devices, which essentially means being able to code the client-side experience of any application. Once you delve in deeper, you'll meet the Back-End side and use APIs (Application Programming Interfaces) that they create that you would be fetching and/or posting data from/to.
 - If you choose the Front-End path, you're doing almost the same things as your App Dev peers, but not really. As a Front-End developer, you're responsible for the client-side experience of any website that you create. You code how your website looks and how it responds to specific events. Once you're capable enough for that, you meet your Back-End peers as well.
-- Yes, option 3, you want to be the Back-End, App Dev and Front-End are nothing without. Back-End, I'd say is the most interesting part of Dev work since you deal with the brain of any application, and the APIs you create are the skeleton for the entire project's working.
+- Option 3, you want to be the Back-End, App Dev and Front-End are nothing without. Back-End, I'd say is the most interesting part of Dev work since you deal with the brain of any application, and the APIs you create are the skeleton for the entire project's working.
 
-I tried to be funny. Anyways, if the above descriptions helped you gain even a bit of bias for one of these verticals over the other one, I'd say go forth with your instinct and try it out until 
-you're sure of whether you wish to stick with it or cross it off the list.
-If your choice was not App Dev, I'm afraid this is as helpful as I can be to you.
+If the above descriptions helped you gain even a bit of bias for one of these verticals over the other one, I'd say go forth with your instinct and try it out until you're sure of whether you wish to stick with it or cross it off the list. If your choice was not App Dev, I'm afraid this is as helpful as I can be to you.
 
 ## Code Editors and IDEs
 
