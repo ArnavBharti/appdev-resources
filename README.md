@@ -41,10 +41,11 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 ### Flutter by Google
 
-#### Setup
+- [Flutter Setup Guide](https://docs.flutter.dev/get-started/install). Follow this guide to completely setup your device for coding in Flutter.
+- [Flutter Documentation](https://docs.flutter.dev/) is one of the best of any mobile tech stacks. Refer to this often especially [Cookbooks](https://docs.flutter.dev/cookbook), which tell you step-by-step how to do common tasks in Flutter and [CodeLabs](https://docs.flutter.dev/codelabs), which is an interactive tutorial of Flutter.
+- [Dart](www.dart.dev) is the programming language used to code using Flutter framework.
 
-[Flutter Setup Guide](https://docs.flutter.dev/get-started/install). Follow this guide to completely setup your device for coding in Flutter.
+#### Tutorials and Courses
 
-#### 
-
-
+- [Angela Yu](https://drive.google.com/drive/u/0/folders/1-8eTGdQfpj5xq6C272qur0KWoDrQ6RzQ)'s course on Flutter is one of the best courses for learning Flutter and Dart.
+- [Vandad Nahivakapoor](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)'s course is also an excellent deep dive into Flutter. Personally this is the course I took to learn Flutter along with [flutter Documentation](https://docs.flutter.dev/).
