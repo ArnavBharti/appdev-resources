@@ -48,4 +48,4 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 #### Tutorials and Courses
 
 - [Angela Yu](https://drive.google.com/drive/u/0/folders/1-8eTGdQfpj5xq6C272qur0KWoDrQ6RzQ)'s course on Flutter is one of the best courses for learning Flutter and Dart.
-- [Vandad Nahivakapoor](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)'s course is also an excellent deep dive into Flutter. Personally this is the course I took to learn Flutter along with [flutter Documentation](https://docs.flutter.dev/).
+- [Vandad Nahivakapoor](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)'s course is also an excellent deep dive into Flutter. Personally, this is the course I took to learn Flutter along with [Flutter documentation](https://docs.flutter.dev/).
