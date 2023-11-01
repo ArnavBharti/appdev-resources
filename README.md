@@ -49,6 +49,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 - This is an awesome resource for learning about these two technologies: [Learn Git and GitHub](https://www.youtube.com/watch?v=apGV9Kg7ics). Practicing what is taught here will take you to an intermediate level enough for most tasks.
 - [GitHub Website](www.github.com) [GitHub Documentation](https://docs.github.com/en).
 - [Git Download](https://git-scm.com/downloads) [A book on Git](https://git-scm.com/book/en/v2).
+- Here's another for [Git](https://ohshitgit.com/).
 
 ## Cross-Platform
 
